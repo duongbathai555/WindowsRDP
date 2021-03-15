@@ -1,4 +1,4 @@
-name: CI
+name: GitHubMoKhoaAccountCuaTao
 
 on: workflow_dispatch
 
